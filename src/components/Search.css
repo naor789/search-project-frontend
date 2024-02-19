@@ -30,7 +30,8 @@
 .search-icon {
   height: 3em;
   width: 3em;
-  z-index: 99;
+  z-index: 999;
+  cursor: pointer;
 }
 
 .search-input-wrapper {
@@ -243,5 +244,8 @@
   }
   .reset-button {
     left: 190px;
+  }
+  .favorite-icon {
+    margin-right: 10px;
   }
 }

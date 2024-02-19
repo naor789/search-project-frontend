@@ -1,4 +1,4 @@
-export const baseUrl = "https://deloitte-project-backend.herokuapp.com/";
+export const baseUrl = "https://deloitte-project-backend.herokuapp.com";
 
 export const searchTitle = "LOOKING FOR AN EMPLOYEE?";
 

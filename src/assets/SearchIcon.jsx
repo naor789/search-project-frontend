@@ -4,7 +4,7 @@ import "../components/Search.css"
 const SearchIcon = () => {
     return (
         <svg
-            className='favorite-icon'
+            className='search-icon'
             xmlns="http://www.w3.org/2000/svg"
             width={40}
             height={40}

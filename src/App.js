@@ -10,7 +10,7 @@ function App() {
   return (
     <EmployeesContextProvider>
       <div className="App">
-        <img src={Constants.backgroundImageSrc} alt="office image background"/>
+        <img src={Constants.backgroundImageSrc} alt="office background"/>
         <SearchInput />
       </div>
     </EmployeesContextProvider>
